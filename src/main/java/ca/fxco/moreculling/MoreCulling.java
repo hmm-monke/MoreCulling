@@ -4,7 +4,7 @@ import ca.fxco.moreculling.config.ConfigUpdater;
 import ca.fxco.moreculling.config.MoreCullingConfig;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.Toml4jConfigSerializer;
-import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.api.ClientModInitializer; 
 import net.minecraft.client.renderer.block.BlockRenderDispatcher;
 import net.minecraft.client.resources.model.ModelManager;
 import net.minecraft.core.registries.BuiltInRegistries;
